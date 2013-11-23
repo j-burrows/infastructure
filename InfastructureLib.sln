@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfastructureLib", "InfastructureLib\InfastructureLib.csproj", "{F39661E2-DA76-44BE-A0E3-2AC50D3D8756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfastructureLibDebug", "InfastructureLibDebug\InfastructureLibDebug.csproj", "{A383B335-55B5-4E67-AC0B-72FCDFF87F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfastructureLibTests", "InfastructureLibTests\InfastructureLibTests.csproj", "{5AC1F415-4624-4D17-A071-E1A52E6BFCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39661E2-DA76-44BE-A0E3-2AC50D3D8756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39661E2-DA76-44BE-A0E3-2AC50D3D8756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39661E2-DA76-44BE-A0E3-2AC50D3D8756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39661E2-DA76-44BE-A0E3-2AC50D3D8756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A383B335-55B5-4E67-AC0B-72FCDFF87F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A383B335-55B5-4E67-AC0B-72FCDFF87F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A383B335-55B5-4E67-AC0B-72FCDFF87F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A383B335-55B5-4E67-AC0B-72FCDFF87F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC1F415-4624-4D17-A071-E1A52E6BFCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC1F415-4624-4D17-A071-E1A52E6BFCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC1F415-4624-4D17-A071-E1A52E6BFCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC1F415-4624-4D17-A071-E1A52E6BFCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
